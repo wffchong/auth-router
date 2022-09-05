@@ -1,3 +1,4 @@
 import http from './http'
+import { formatRouteTree } from './formatRouteTree'
 
-export { http }
+export { http, formatRouteTree }
